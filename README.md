@@ -30,6 +30,5 @@ Setup
 
 * Once the database is setup, you can simply run the application by clicking on the IIS Express button with a run icon besides it on the 2nd most top row of the visual studio window.
 
-![screenshot](IMsafe/Screenshots/Run.PNG)
 
 Enjoy the application! Let's make immigration transition easier!
