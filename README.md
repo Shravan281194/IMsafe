@@ -14,7 +14,7 @@ SQL Server Management Studio - https://docs.microsoft.com/en-us/sql/ssms/downloa
 ---
 Setup
 ---
-* Clone the repository into your system - https://github.com/rohannischal789/IMsafe
+* Clone the repository into your system - https://github.com/Shravan281194/IMsafe
 
 * Open the solution in Visual Studio by navigating to ProjectLocation\IMsafe\IMsafe.sln
 
